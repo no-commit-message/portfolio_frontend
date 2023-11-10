@@ -7,8 +7,8 @@
 https://portfolio-frontend-lake.vercel.app/
 
 ## 使用技術
-TypeScript ✖️ Next.js13の組み合わせで実装しました。
-Vercelにデプロイしています。
+TypeScript ✖️ Next.js13の組み合わせで実装しました。  
+TailWindCSSを用いてスタイリングし、Vercelにデプロイしています。
 
 ## バックエンド
 GitHub: https://github.com/no-commit-message/portfolio_api  
