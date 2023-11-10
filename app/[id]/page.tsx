@@ -20,7 +20,7 @@ export default async function Detail({ params }: { params: { id: string } }) {
         <div>
             <Header />
             <div className="flex justify-center mt-8">
-                <div className="w-6/12 border rounded-lg shadow-lg flex flex-col px-10 py-6">
+                <div className="w-6/12 border rounded-lg shadow-lg flex flex-col px-10 py-8">
                     <h1 className="border-b border-b-slate-300 text-3xl mb-8">{ post.title }</h1>
                     <div className="flex mb-6">
                         <p className="mr-4">投稿日: { post.created_at }</p>
